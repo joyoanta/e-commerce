@@ -27,3 +27,23 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1, .cat2, .cat3{
+
+    padding: 10px 30px;
+}
+
+.cat1{
+
+    background-color: orange;
+}
+
+.cat2{
+
+    background-color: orchid;
+}
+
+.cat3{
+
+    background-color: powderblue;
+}
