@@ -31,6 +31,7 @@
 .cat1, .cat2, .cat3{
 
     padding: 10px 30px;
+    border-radius: 15px;
 }
 
 .cat1{
@@ -45,5 +46,40 @@
 
 .cat3{
 
-    background-color: powderblue;
+    background-color: rgb(44, 75, 216);
+}
+
+.headline{
+
+    color: white;
+}
+
+.card{
+
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.card-footer{
+
+background-color: white;
+border-radius: 10px;
+border-top: none;
+
+}
+
+#contact{
+
+    height: 300px;
+}
+
+#contact h5{
+
+    color: gray;
+}
+
+footer{
+
+    text-align: center;
 }
